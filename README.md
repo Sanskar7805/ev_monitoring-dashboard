@@ -3,7 +3,7 @@ This web application helps users to monitor live Electric Vehicle data such as b
 
 ## To start our Project on your Machine:-
 1. Create a new folder.
-2. Run following command in terminal:- ```git clone https://github.com/pankajganjale/ev_monitoring.git```
+2. Run following command in terminal:- ```git clone https://github.com/Sanskar7805/ev_monitoring-dashboard.git```
 3. Open terminal with parent folder and run following command ```python manage.py runserver```
 
 # Features:-
@@ -27,9 +27,9 @@ This web application helps users to monitor live Electric Vehicle data such as b
    
 ## Contact
 
-Pankaj Ganjale - [My Linkedin](https://linkedin.com/in/pankajganjale)
+Sanskar Soni - [My Linkedin](https://www.linkedin.com/in/sanskar-soni-394189229/)
 
-Project Link - [Project Repo](https://github.com/pankajganjale/ev_monitoring.git)
+Project Link - [Project Repo](https://github.com/Sanskar7805/ev_monitoring-dashboard.git)
 
 ## Acknowledgment
 Took some help from these resources 
